@@ -1,0 +1,7 @@
+[target.x86_64-apple-darwin]
+linker = "x86_64-apple-darwin15-cc"
+ar = "x86_64-apple-darwin15-ar"
+
+[target.i686-apple-darwin]
+linker = "i386-apple-darwin15-ar"
+ar = "i386-apple-darwin15-ar"
